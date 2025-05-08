@@ -61,6 +61,18 @@ This project is a React-based web application for classifying eye diseases and p
 - **`responsive.js`**: Contains responsive design utilities for different screen sizes.
 
 ---
+### Dataset
+
+The dataset used in this project consists of retinal images and corresponding CSV files for disease classification and risk prediction. It is organized into test and validation sets for both tasks.
+
+#### Retinal Images
+
+- **Location**: `public/assets/`
+  - `retinal_images_test/`: Contains retinal images for the test set.
+  - `retinal_images_val/`: Contains retinal images for the validation set.
+
+
+
 
 ### CSV Files
 
