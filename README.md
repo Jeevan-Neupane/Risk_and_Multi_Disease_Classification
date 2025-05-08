@@ -9,10 +9,8 @@ This project is a React-based web application for classifying eye diseases and p
 ### Root Files
 
 - **`.gitignore`**: Specifies intentionally untracked files to ignore.
-- **`eslint.config.js`**: ESLint configuration for linting JavaScript and React code.
 - **`index.html`**: The entry HTML file for the Vite application.
 - **`package.json`**: Contains project metadata and dependencies.
-- **`vite.config.js`**: Configuration file for Vite.
 - **`README.md`**: Documentation for the project.
 
 ---
@@ -124,7 +122,7 @@ This project is a React-based web application for classifying eye diseases and p
 1. Clone the repository:
    ```
    git clone https://github.com/your-username/eye-disease-classification.git
-   cd eye-disease-classification
+   cd Risk_and_Multi_Disease_Classification
    ```
 2.Install dependencies:
 
